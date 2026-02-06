@@ -2,7 +2,7 @@
 
 ***Desenvolvedor FullStack***
 
-Estudante de Sistemas de Informação na UFRRJ apaixonado por transformar dados em soluções eficientes. Atualmente, foco no desenvolvimento de um aplicativo de Visão Computacional utilizando Python (Kivy/OpenCV) para análise de qualidade na agroindústria. Com experiência sólida em C#, Django e gestão de bancos de dados SQL, busco criar sistemas escaláveis e automatizados. Minha trajetória inclui vivência no PET-SI e na Signal Jr. como Assessor de Projetos, o que me proporcionou uma visão equilibrada entre rigor técnico e entrega de valor ao usuário. Inglês avançado e em constante evolução no ecossistema de Engenharia de Dados e Desenvolvimento de Software.
+Estudante de Sistemas de Informação na UFRRJ. Atualmente, foco no desenvolvimento de um aplicativo de Visão Computacional utilizando Python (Kivy/OpenCV) para análise de qualidade na agroindústria. Com experiência sólida em Python, Java e gestão de bancos de dados SQL, busco criar sistemas escaláveis e automatizados. Minha trajetória inclui vivência no PET-SI e na Signal Jr. como Assessor de Projetos, o que me proporcionou uma visão equilibrada entre rigor técnico e entrega de valor ao usuário. Inglês avançado e em constante evolução nas áreas de Engenharia de Dados e Desenvolvimento de Software.
 
 ---
 
